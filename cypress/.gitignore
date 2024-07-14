@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Test Coverage
+.nyc_output
+coverage
+
+# Miscellanous Directories
+downloads
+screenshots
+videos
